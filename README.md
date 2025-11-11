@@ -27,3 +27,4 @@ git commit -m "comentario sobre el commit"
 ```
 git push
 ```
+![example](https://github.com/sgargon0408b/Repositorio1/blob/main/img.png)
