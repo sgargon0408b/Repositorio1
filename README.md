@@ -1,8 +1,8 @@
 # Repositorio de Entornos de Desarrollo
 
-## Este es el primer repositorio que hemos creado en GIT
+### Este es el primer repositorio que hemos creado en GIT
 
-Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este repositorio. 😎🎓
+Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este repositorio. :boy::mortar_board:
 
 
 ## Algunas de las ventajas de GIT son
@@ -14,7 +14,7 @@ Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este reposito
 
 ## Flujo de trabajo de GIT
 
-Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com)tenemos que seguir los siguientes pasos:
+Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com) tenemos que seguir los siguientes pasos:
 
 ```
 git add fichero
